@@ -6,3 +6,11 @@ Sales/Customer.java
  Sales.Customer
 Sales/SilverCustomer.java
  Sales.SilverCustomer
+Ticket/Ticket.java
+ Ticket.Ticket
+Ticket/Tester.java
+ Ticket.Tester
+Ticket/StudentTicket.java
+ Ticket.StudentTicket
+Ticket/Station.java
+ Ticket.Station
